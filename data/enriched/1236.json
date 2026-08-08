@@ -1,0 +1,133 @@
+{
+  "round": 1236,
+  "date": "2026-08-08",
+  "nums": [
+    12,
+    18,
+    21,
+    29,
+    34,
+    38
+  ],
+  "bonus": 10,
+  "firstWinAmount": 2441919375,
+  "firstWinners": 11,
+  "totalSales": 114070835000,
+  "prizes": {
+    "first": {
+      "amount": 2441919375,
+      "winners": 11
+    },
+    "second": {
+      "amount": 53295860,
+      "winners": 84
+    },
+    "third": {
+      "amount": 1328049,
+      "winners": 3371
+    },
+    "fourth": {
+      "amount": 50000,
+      "winners": 161927
+    },
+    "fifth": {
+      "amount": 5000,
+      "winners": 2624850
+    }
+  },
+  "methodCounts": {
+    "auto": 5,
+    "manual": 5,
+    "mixed": 1
+  },
+  "topStores": [
+    {
+      "rank": 1,
+      "name": "국민슈퍼",
+      "address": "서울 도봉구 도봉로 588",
+      "method": "auto",
+      "lat": 37.65706,
+      "lng": 127.0401
+    },
+    {
+      "rank": 1,
+      "name": "정원복권방",
+      "address": "서울 도봉구 도봉로 468 1층 101-3호",
+      "method": "auto",
+      "lat": 37.647373,
+      "lng": 127.03441
+    },
+    {
+      "rank": 1,
+      "name": "대일슈퍼",
+      "address": "대전 서구 월평중로24번길 48",
+      "method": "auto",
+      "lat": 36.356518,
+      "lng": 127.36651
+    },
+    {
+      "rank": 1,
+      "name": "진승복권방",
+      "address": "울산 울주군 신온4길 3-16",
+      "method": "auto",
+      "lat": 35.431007,
+      "lng": 129.30931
+    },
+    {
+      "rank": 1,
+      "name": "초이스 복권판매점",
+      "address": "경기 안성시 석정2길 20 1층 104호",
+      "method": "auto",
+      "lat": 37.009247,
+      "lng": 127.26096
+    },
+    {
+      "rank": 1,
+      "name": "북문복권방",
+      "address": "경기 수원시 장안구 정조로 927-1",
+      "method": "auto",
+      "lat": 37.2903,
+      "lng": 127.01282
+    },
+    {
+      "rank": 1,
+      "name": "행운잡아",
+      "address": "경기 남양주시 경춘로1256번길 25 115호",
+      "method": "auto",
+      "lat": 37.645176,
+      "lng": 127.23647
+    },
+    {
+      "rank": 1,
+      "name": "복권닷컴",
+      "address": "강원 양양군 양양로 62",
+      "method": "auto",
+      "lat": 38.07555,
+      "lng": 128.62233
+    },
+    {
+      "rank": 1,
+      "name": "중앙복권방",
+      "address": "전북 전주시 완산구 공북로 95",
+      "method": "auto",
+      "lat": 35.826473,
+      "lng": 127.14216
+    },
+    {
+      "rank": 1,
+      "name": "황금복권마트",
+      "address": "전북 전주시 덕진구 솔내로 148",
+      "method": "auto",
+      "lat": 35.863335,
+      "lng": 127.12733
+    },
+    {
+      "rank": 1,
+      "name": "함덕대박복권판매점",
+      "address": "제주 제주시 함덕18길 19",
+      "method": "auto",
+      "lat": 33.539486,
+      "lng": 126.67022
+    }
+  ]
+}

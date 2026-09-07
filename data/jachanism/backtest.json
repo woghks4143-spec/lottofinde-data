@@ -1,13 +1,13 @@
 {
-  "latestRound": 1239,
+  "latestRound": 1240,
   "roundsTested": 52,
-  "totalCombosTested": 4174062,
+  "totalCombosTested": 4174097,
   "rank1": 1,
   "rank2": 4,
-  "rank3": 140,
-  "rank4": 5974,
-  "rank5": 96022,
-  "computedAt": 1788153672774,
+  "rank3": 141,
+  "rank4": 5942,
+  "rank5": 95592,
+  "computedAt": 1788755036154,
   "algorithm": "JACKPOT_UNION_v3",
   "wins1st": [
     1206

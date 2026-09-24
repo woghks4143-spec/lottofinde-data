@@ -1,0 +1,133 @@
+{
+  "round": 1232,
+  "date": "2026-07-11",
+  "nums": [
+    12,
+    15,
+    19,
+    22,
+    24,
+    36
+  ],
+  "bonus": 3,
+  "firstWinAmount": 2533260819,
+  "firstWinners": 11,
+  "totalSales": 114636304000,
+  "prizes": {
+    "first": {
+      "amount": 2533260819,
+      "winners": 11
+    },
+    "second": {
+      "amount": 50481647,
+      "winners": 92
+    },
+    "third": {
+      "amount": 1556405,
+      "winners": 2984
+    },
+    "fourth": {
+      "amount": 50000,
+      "winners": 149349
+    },
+    "fifth": {
+      "amount": 5000,
+      "winners": 2539242
+    }
+  },
+  "methodCounts": {
+    "auto": 6,
+    "manual": 2,
+    "mixed": 3
+  },
+  "topStores": [
+    {
+      "rank": 1,
+      "name": "복권판매점",
+      "address": "서울 영등포구 영중로8길 17 1층(영등포동3가)",
+      "method": "auto",
+      "lat": 37.518387,
+      "lng": 126.90755
+    },
+    {
+      "rank": 1,
+      "name": "미성복권방",
+      "address": "서울 마포구 월드컵북로 230 현대상가 안 1층3호",
+      "method": "auto",
+      "lat": 37.570126,
+      "lng": 126.90384
+    },
+    {
+      "rank": 1,
+      "name": "복돼지 복권 판매소",
+      "address": "서울 관악구 은천로 119-1 1층",
+      "method": "auto",
+      "lat": 37.486877,
+      "lng": 126.94867
+    },
+    {
+      "rank": 1,
+      "name": "여기명당",
+      "address": "울산 중구 평산1길 2",
+      "method": "auto",
+      "lat": 35.567646,
+      "lng": 129.34125
+    },
+    {
+      "rank": 1,
+      "name": "1등복권방",
+      "address": "경기 오산시 수청로 201",
+      "method": "auto",
+      "lat": 37.176403,
+      "lng": 127.04452
+    },
+    {
+      "rank": 1,
+      "name": "단대대박복권방",
+      "address": "경기 성남시 중원구 산성대로372번길 14 1층",
+      "method": "auto",
+      "lat": 37.44475,
+      "lng": 127.15859
+    },
+    {
+      "rank": 1,
+      "name": "일성능수 복권판매점",
+      "address": "충남 천안시 서북구 쌍용17길 25 일성능수아파트 상가 102호",
+      "method": "auto",
+      "lat": 36.798256,
+      "lng": 127.12296
+    },
+    {
+      "rank": 1,
+      "name": "행운복권방 보생당건강원",
+      "address": "전북 익산시 무왕로 1268",
+      "method": "auto",
+      "lat": 35.960346,
+      "lng": 126.99724
+    },
+    {
+      "rank": 1,
+      "name": "창신로또",
+      "address": "경북 영천시 언하공단로 83",
+      "method": "auto",
+      "lat": 35.98591,
+      "lng": 128.95454
+    },
+    {
+      "rank": 1,
+      "name": "창신로또",
+      "address": "경북 영천시 언하공단로 83",
+      "method": "auto",
+      "lat": 35.98591,
+      "lng": 128.95454
+    },
+    {
+      "rank": 1,
+      "name": "갓바위로또",
+      "address": "경북 경산시 금송로 474 1층 GS25시 편의점 내",
+      "method": "auto",
+      "lat": 35.951397,
+      "lng": 128.83601
+    }
+  ]
+}

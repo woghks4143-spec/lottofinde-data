@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+publish.mjs
+node_modules/
+# 조합 풀·백테스트는 비공개 자산 — 이 공개 저장소에 올리지 않는다.
+data/jachanism/

@@ -1,0 +1,37 @@
+name: Refresh Winning Numbers
+
+# 로또 추첨(토 20:45 KST) 이후 당첨번호 자동 갱신.
+# smok95 공개 미러에서 보충 — 알고리즘/비공개 요소 없음.
+on:
+  schedule:
+    - cron: '30 13 * * 6'   # 토 22:30 KST
+    - cron: '30 15 * * 6'   # 토 00:30 KST (일요일 새벽, 미러 지연 대비)
+    - cron: '0 1 * * 0'     # 일 10:00 KST (최종 보충)
+  workflow_dispatch:          # 웹에서 수동 실행도 가능
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Refresh enriched from mirror
+        run: node scripts/refresh-enriched.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "변경 없음."
+          else
+            git commit -m "auto: 당첨번호 갱신 $(date -u +%Y-%m-%d)"
+            git push
+          fi

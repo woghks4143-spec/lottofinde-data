@@ -28,6 +28,9 @@
 html, body {
   margin: 0;
   padding: 0;
+  /* 한국어는 단어 단위로 줄바꿈("체 / 험"처럼 글자 중간에서 끊기지 않게) */
+  word-break: keep-all;
+  overflow-wrap: anywhere;
   background: var(--bg);
   color: var(--fg);
   font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo',

@@ -85,7 +85,7 @@
       "rank": 1,
       "name": "소망상사",
       "address": "경기 남양주시 다산중앙로82번안길 115-4 1층",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.61221,
       "lng": 127.16518
     },
@@ -109,7 +109,7 @@
       "rank": 1,
       "name": "KOREA마트",
       "address": "경북 구미시 임은길 64",
-      "method": "auto",
+      "method": "manual",
       "lat": 36.088997,
       "lng": 128.36954
     }

@@ -53,7 +53,7 @@
       "rank": 1,
       "name": "대박복권방",
       "address": "서울 용산구 효창원로 262 1층",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.550602,
       "lng": 126.96381
     },
@@ -165,7 +165,7 @@
       "rank": 1,
       "name": "파랑새",
       "address": "경남 밀양시 수월3길 19",
-      "method": "auto",
+      "method": "manual",
       "lat": 35.488884,
       "lng": 128.75398
     }

@@ -53,7 +53,7 @@
       "rank": 1,
       "name": "인터넷 복권판매사이트",
       "address": "동행복권(dhlottery.co.kr)",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.482063,
       "lng": 127.015785
     },
@@ -69,7 +69,7 @@
       "rank": 1,
       "name": "인터넷 복권판매사이트",
       "address": "동행복권(dhlottery.co.kr)",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.482063,
       "lng": 127.015785
     },
@@ -77,7 +77,7 @@
       "rank": 1,
       "name": "인터넷 복권판매사이트",
       "address": "동행복권(dhlottery.co.kr)",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.482063,
       "lng": 127.015785
     },
@@ -85,7 +85,7 @@
       "rank": 1,
       "name": "인터넷 복권판매사이트",
       "address": "동행복권(dhlottery.co.kr)",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.482063,
       "lng": 127.015785
     },
@@ -101,7 +101,7 @@
       "rank": 1,
       "name": "유성포장",
       "address": "서울 구로구 도림로 85 1층코너",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.490444,
       "lng": 126.8926
     },

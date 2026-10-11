@@ -53,7 +53,7 @@
       "rank": 1,
       "name": "더블행운점",
       "address": "서울 중랑구 겸재로 98",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.586246,
       "lng": 127.07865
     },
@@ -61,7 +61,7 @@
       "rank": 1,
       "name": "인터넷 복권판매사이트",
       "address": "동행복권(dhlottery.co.kr)",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.482063,
       "lng": 127.015785
     },
@@ -69,7 +69,7 @@
       "rank": 1,
       "name": "드림",
       "address": "서울 서대문구 증가로 247 1층",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.58294,
       "lng": 126.91225
     },
@@ -93,7 +93,7 @@
       "rank": 1,
       "name": "천하제일명당",
       "address": "부산 부산진구 골드테마길 42",
-      "method": "auto",
+      "method": "manual",
       "lat": 35.14356,
       "lng": 129.06013
     },
@@ -117,7 +117,7 @@
       "rank": 1,
       "name": "일등복권판매점",
       "address": "전남광주 북구 설죽로315번길 40 (매곡동)1층 2호",
-      "method": "auto",
+      "method": "manual",
       "lat": 35.18911,
       "lng": 126.89483
     },
@@ -149,7 +149,7 @@
       "rank": 1,
       "name": "행운나눔점 (로또복권)",
       "address": "경기 화성시 효행구 와우로 74-1 101호",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.213593,
       "lng": 126.97404
     },
@@ -173,7 +173,7 @@
       "rank": 1,
       "name": "바로전산",
       "address": "경기 광명시 오리로 1000 (광명동)",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.48021,
       "lng": 126.85236
     },
@@ -205,7 +205,7 @@
       "rank": 1,
       "name": "태안로또복권방",
       "address": "충남 태안군 독샘로 57",
-      "method": "auto",
+      "method": "manual",
       "lat": 36.75318,
       "lng": 126.29935
     },
@@ -221,7 +221,7 @@
       "rank": 1,
       "name": "리이지복권",
       "address": "경남 창원시 성산구 동산로 156 1층 14호 삼익종합상가",
-      "method": "auto",
+      "method": "manual",
       "lat": 35.221657,
       "lng": 128.6934
     }

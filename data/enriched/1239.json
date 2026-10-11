@@ -53,7 +53,7 @@
       "rank": 1,
       "name": "복권방",
       "address": "서울 강동구 천호대로176길 10-3",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.53384,
       "lng": 127.13607
     },
@@ -61,7 +61,7 @@
       "rank": 1,
       "name": "행운복권방",
       "address": "부산 사상구 사상로 527",
-      "method": "auto",
+      "method": "mixed",
       "lat": 35.19126,
       "lng": 128.98923
     },
@@ -109,7 +109,7 @@
       "rank": 1,
       "name": "하나로복권",
       "address": "강원 속초시 동해대로 4202 1층",
-      "method": "auto",
+      "method": "manual",
       "lat": 38.194565,
       "lng": 128.57903
     },

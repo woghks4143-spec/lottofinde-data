@@ -45,7 +45,7 @@
       "rank": 1,
       "name": "국민슈퍼",
       "address": "서울 도봉구 도봉로 588",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.65706,
       "lng": 127.0401
     },
@@ -53,7 +53,7 @@
       "rank": 1,
       "name": "정원복권방",
       "address": "서울 도봉구 도봉로 468 1층 101-3호",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.647373,
       "lng": 127.03441
     },
@@ -61,7 +61,7 @@
       "rank": 1,
       "name": "대일슈퍼",
       "address": "대전 서구 월평중로24번길 48",
-      "method": "auto",
+      "method": "mixed",
       "lat": 36.356518,
       "lng": 127.36651
     },
@@ -85,7 +85,7 @@
       "rank": 1,
       "name": "북문복권방",
       "address": "경기 수원시 장안구 정조로 927-1",
-      "method": "auto",
+      "method": "manual",
       "lat": 37.2903,
       "lng": 127.01282
     },
@@ -109,7 +109,7 @@
       "rank": 1,
       "name": "중앙복권방",
       "address": "전북 전주시 완산구 공북로 95",
-      "method": "auto",
+      "method": "manual",
       "lat": 35.826473,
       "lng": 127.14216
     },
@@ -117,7 +117,7 @@
       "rank": 1,
       "name": "황금복권마트",
       "address": "전북 전주시 덕진구 솔내로 148",
-      "method": "auto",
+      "method": "manual",
       "lat": 35.863335,
       "lng": 127.12733
     },

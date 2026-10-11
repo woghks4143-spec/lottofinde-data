@@ -93,7 +93,7 @@
       "rank": 1,
       "name": "복권전문점",
       "address": "대전 유성구 유성대로694번길 84",
-      "method": "auto",
+      "method": "manual",
       "lat": 36.35407,
       "lng": 127.33617
     },
@@ -117,7 +117,7 @@
       "rank": 1,
       "name": "대박나라",
       "address": "경기 시흥시 함송로 15 111호(정왕동화신프라자)",
-      "method": "auto",
+      "method": "mixed",
       "lat": 37.364037,
       "lng": 126.73029
     },
@@ -173,7 +173,7 @@
       "rank": 1,
       "name": "로또 휴게",
       "address": "제주 제주시 연삼로 626",
-      "method": "auto",
+      "method": "manual",
       "lat": 33.506298,
       "lng": 126.55472
     }

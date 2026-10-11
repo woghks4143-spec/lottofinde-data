@@ -85,7 +85,7 @@
       "rank": 1,
       "name": "로또기업",
       "address": "대전 동구 동서대로 1684 복합터미널 건너편",
-      "method": "auto",
+      "method": "manual",
       "lat": 36.34879,
       "lng": 127.43706
     },

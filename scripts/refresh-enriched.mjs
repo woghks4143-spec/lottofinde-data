@@ -9,6 +9,9 @@ import path from 'node:path';
 
 const ENR = path.join(process.cwd(), 'data', 'enriched');
 
+// smok95 판매점 목록은 구매방식을 한글 `combination`으로 준다.
+const METHOD_BY_COMBINATION = { 자동: 'auto', 수동: 'manual', 반자동: 'mixed' };
+
 async function getJson(url) {
   try { const r = await fetch(url); if (!r.ok) return null; return await r.json(); }
   catch { return null; }
@@ -55,7 +58,7 @@ function currentMax() {
       },
       topStores: Array.isArray(stores) ? stores.map((s) => ({
         rank: s.rank ?? 1, name: s.name, address: s.address,
-        method: s.method || 'auto', lat: s.lat, lng: s.lng,
+        method: METHOD_BY_COMBINATION[s.combination] ?? s.method ?? 'unknown', lat: s.lat, lng: s.lng,
       })) : [],
     };
     fs.writeFileSync(path.join(ENR, `${round}.json`), JSON.stringify(enriched, null, 2));

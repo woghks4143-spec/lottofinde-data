@@ -1,0 +1,165 @@
+{
+  "round": 1248,
+  "date": "2026-10-31",
+  "nums": [
+    16,
+    18,
+    27,
+    36,
+    38,
+    42
+  ],
+  "bonus": 22,
+  "firstWinAmount": 1933658450,
+  "firstWinners": 15,
+  "totalSales": 121355508000,
+  "prizes": {
+    "first": {
+      "amount": 1933658450,
+      "winners": 15
+    },
+    "second": {
+      "amount": 53122485,
+      "winners": 91
+    },
+    "third": {
+      "amount": 1480597,
+      "winners": 3265
+    },
+    "fourth": {
+      "amount": 50000,
+      "winners": 167745
+    },
+    "fifth": {
+      "amount": 5000,
+      "winners": 2723467
+    }
+  },
+  "methodCounts": {
+    "auto": 13,
+    "manual": 2,
+    "mixed": 0
+  },
+  "topStores": [
+    {
+      "rank": 1,
+      "name": "로또킹",
+      "address": "서울 영등포구 영중로 2 1층(영등포동3가)",
+      "method": "auto",
+      "lat": 37.516743,
+      "lng": 126.90673
+    },
+    {
+      "rank": 1,
+      "name": "인터넷 복권판매사이트",
+      "address": "동행복권(dhlottery.co.kr)",
+      "method": "auto",
+      "lat": 37.482063,
+      "lng": 127.015785
+    },
+    {
+      "rank": 1,
+      "name": "인터넷 복권판매사이트",
+      "address": "동행복권(dhlottery.co.kr)",
+      "method": "auto",
+      "lat": 37.482063,
+      "lng": 127.015785
+    },
+    {
+      "rank": 1,
+      "name": "황금대박점",
+      "address": "서울 노원구 공릉로 328",
+      "method": "auto",
+      "lat": 37.636,
+      "lng": 127.07103
+    },
+    {
+      "rank": 1,
+      "name": "씨유 알리앙스점",
+      "address": "대구 달서구 달구벌대로 1562",
+      "method": "auto",
+      "lat": 35.850117,
+      "lng": 128.53802
+    },
+    {
+      "rank": 1,
+      "name": "잘찍어로또방",
+      "address": "경기 평택시 안현로서5길 64",
+      "method": "auto",
+      "lat": 36.98848,
+      "lng": 126.92799
+    },
+    {
+      "rank": 1,
+      "name": "탄현대박로또복권",
+      "address": "경기 파주시 방촌로 661 1층상가 좌측",
+      "method": "auto",
+      "lat": 37.80329,
+      "lng": 126.71826
+    },
+    {
+      "rank": 1,
+      "name": "드림 복권판매점",
+      "address": "경기 부천시 계남로 297 1층 102호",
+      "method": "auto",
+      "lat": 37.50439,
+      "lng": 126.78129
+    },
+    {
+      "rank": 1,
+      "name": "스마일복권",
+      "address": "경기 김포시 중봉1로 12 1층 104-2호",
+      "method": "manual",
+      "lat": 37.622517,
+      "lng": 126.69955
+    },
+    {
+      "rank": 1,
+      "name": "로또명당 대박복권방",
+      "address": "경기 광명시 소하로 78 109호 (신성프라자)",
+      "method": "auto",
+      "lat": 37.447926,
+      "lng": 126.88335
+    },
+    {
+      "rank": 1,
+      "name": "아싸복권",
+      "address": "강원 강릉시 용지로 27 1층",
+      "method": "auto",
+      "lat": 37.754223,
+      "lng": 128.91122
+    },
+    {
+      "rank": 1,
+      "name": "일송로또",
+      "address": "강원 강릉시 하평3길 37 광옥당(일송상가 102호)",
+      "method": "auto",
+      "lat": 37.772198,
+      "lng": 128.915
+    },
+    {
+      "rank": 1,
+      "name": "이봉복권방",
+      "address": "충남 아산시 충무로 1150",
+      "method": "manual",
+      "lat": 36.87573,
+      "lng": 127.02904
+    },
+    {
+      "rank": 1,
+      "name": "좋은날 복권방",
+      "address": "전북 남원시 의총로 78",
+      "method": "auto",
+      "lat": 35.407715,
+      "lng": 127.37666
+    },
+    {
+      "rank": 1,
+      "name": "황재복권방",
+      "address": "경북 안동시 퇴계로 233-22",
+      "method": "auto",
+      "lat": 36.57856,
+      "lng": 128.73221
+    }
+  ]
+}

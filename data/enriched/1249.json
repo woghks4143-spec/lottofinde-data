@@ -1,0 +1,157 @@
+{
+  "round": 1249,
+  "date": "2026-11-07",
+  "nums": [
+    2,
+    11,
+    16,
+    25,
+    34,
+    35
+  ],
+  "bonus": 14,
+  "firstWinAmount": 2025045509,
+  "firstWinners": 14,
+  "totalSales": 118161409000,
+  "prizes": {
+    "first": {
+      "amount": 2025045509,
+      "winners": 14
+    },
+    "second": {
+      "amount": 50807594,
+      "winners": 93
+    },
+    "third": {
+      "amount": 1331016,
+      "winners": 3550
+    },
+    "fourth": {
+      "amount": 50000,
+      "winners": 162101
+    },
+    "fifth": {
+      "amount": 5000,
+      "winners": 2634961
+    }
+  },
+  "methodCounts": {
+    "auto": 7,
+    "manual": 7,
+    "mixed": 0
+  },
+  "topStores": [
+    {
+      "rank": 1,
+      "name": "대박나라",
+      "address": "서울 용산구 회나무로 21 1층 휴대폰매장",
+      "method": "manual",
+      "lat": 37.53922,
+      "lng": 126.98901
+    },
+    {
+      "rank": 1,
+      "name": "방이먹자골목 천하명당 일등복권",
+      "address": "서울 송파구 오금로11길 24 제1층 주차장 옆",
+      "method": "auto",
+      "lat": 37.514874,
+      "lng": 127.10982
+    },
+    {
+      "rank": 1,
+      "name": "복권판매소",
+      "address": "서울 서초구 서초중앙로 113",
+      "method": "manual",
+      "lat": 37.49188,
+      "lng": 127.01392
+    },
+    {
+      "rank": 1,
+      "name": "스파",
+      "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+      "method": "auto",
+      "lat": 37.66167,
+      "lng": 127.05789
+    },
+    {
+      "rank": 1,
+      "name": "구일 로또 전자담배",
+      "address": "서울 구로구 구일로8길 63 한신상가 102호",
+      "method": "auto",
+      "lat": 37.496113,
+      "lng": 126.87414
+    },
+    {
+      "rank": 1,
+      "name": "행복한행운",
+      "address": "서울 강서구 공항대로45길 12 1층",
+      "method": "auto",
+      "lat": 37.555847,
+      "lng": 126.85462
+    },
+    {
+      "rank": 1,
+      "name": "꾸미로또복권",
+      "address": "서울 강북구 솔샘로67길 118 1층",
+      "method": "auto",
+      "lat": 37.62231,
+      "lng": 127.02696
+    },
+    {
+      "rank": 1,
+      "name": "로또복권방",
+      "address": "부산 해운대구 재반로 249",
+      "method": "auto",
+      "lat": 35.199535,
+      "lng": 129.13121
+    },
+    {
+      "rank": 1,
+      "name": "성복3번출구점",
+      "address": "경기 용인시 수지구 수지로112번길 11 성복프라자주건축물 제1동",
+      "method": "manual",
+      "lat": 37.312492,
+      "lng": 127.08021
+    },
+    {
+      "rank": 1,
+      "name": "대길복권",
+      "address": "경기 수원시 장안구 서부로 2129-1 1층 (율전동)",
+      "method": "manual",
+      "lat": 37.298744,
+      "lng": 126.97129
+    },
+    {
+      "rank": 1,
+      "name": "행복한사람들 (흥부네)",
+      "address": "경기 광주시 경충대로 1014",
+      "method": "auto",
+      "lat": 37.369896,
+      "lng": 127.3039
+    },
+    {
+      "rank": 1,
+      "name": "삼일공사(왕대박천하명당)",
+      "address": "충남 천안시 동남구 광풍로 1767 1층 다호",
+      "method": "manual",
+      "lat": 36.77681,
+      "lng": 127.14288
+    },
+    {
+      "rank": 1,
+      "name": "큰별복권판매점",
+      "address": "충남 논산시 중앙로 318",
+      "method": "manual",
+      "lat": 36.19419,
+      "lng": 127.09471
+    },
+    {
+      "rank": 1,
+      "name": "알리바이한전공대점",
+      "address": "전남광주 나주시 빛가람로 793 1층",
+      "method": "manual",
+      "lat": 35.021458,
+      "lng": 126.79868
+    }
+  ]
+}

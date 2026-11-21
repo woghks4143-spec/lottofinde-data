@@ -1,0 +1,157 @@
+{
+  "round": 1251,
+  "date": "2026-11-21",
+  "nums": [
+    14,
+    18,
+    19,
+    29,
+    40,
+    45
+  ],
+  "bonus": 1,
+  "firstWinAmount": 2068843286,
+  "firstWinners": 14,
+  "totalSales": 116992886000,
+  "prizes": {
+    "first": {
+      "amount": 2068843286,
+      "winners": 14
+    },
+    "second": {
+      "amount": 50284386,
+      "winners": 96
+    },
+    "third": {
+      "amount": 1693196,
+      "winners": 2851
+    },
+    "fourth": {
+      "amount": 50000,
+      "winners": 146963
+    },
+    "fifth": {
+      "amount": 5000,
+      "winners": 2505977
+    }
+  },
+  "methodCounts": {
+    "auto": 14,
+    "manual": 0,
+    "mixed": 0
+  },
+  "topStores": [
+    {
+      "rank": 1,
+      "name": "묵동식품",
+      "address": "서울 중랑구 동일로 919",
+      "method": "auto",
+      "lat": 37.61247,
+      "lng": 127.07706
+    },
+    {
+      "rank": 1,
+      "name": "가산내차례복권",
+      "address": "서울 금천구 디지털로9길 56 101호",
+      "method": "auto",
+      "lat": 37.480404,
+      "lng": 126.88687
+    },
+    {
+      "rank": 1,
+      "name": "아차산역가로판매점",
+      "address": "서울 광진구 천호대로 665",
+      "method": "auto",
+      "lat": 37.551613,
+      "lng": 127.09016
+    },
+    {
+      "rank": 1,
+      "name": "희망행복권방",
+      "address": "부산 해운대구 재반로 148",
+      "method": "auto",
+      "lat": 35.190952,
+      "lng": 129.12796
+    },
+    {
+      "rank": 1,
+      "name": "부일카서비스",
+      "address": "부산 동구 자성로133번길 35",
+      "method": "auto",
+      "lat": 35.140057,
+      "lng": 129.06305
+    },
+    {
+      "rank": 1,
+      "name": "버스매표소 복권판매소",
+      "address": "인천 제물포구 우현로 69 중앙로지하상가 163호",
+      "method": "auto",
+      "lat": 37.474083,
+      "lng": 126.63023
+    },
+    {
+      "rank": 1,
+      "name": "행운슈퍼(복권)",
+      "address": "경기 안산시 상록구 각골로 129 1층",
+      "method": "auto",
+      "lat": 37.301014,
+      "lng": 126.87272
+    },
+    {
+      "rank": 1,
+      "name": "행복복권",
+      "address": "경기 시흥시 장현능곡로 155 지1층 비1058호(능곡동, 시흥 플랑드르)",
+      "method": "auto",
+      "lat": 37.371014,
+      "lng": 126.80731
+    },
+    {
+      "rank": 1,
+      "name": "현대화체인점",
+      "address": "경기 수원시 장안구 장안로 99-1 1층",
+      "method": "auto",
+      "lat": 37.29286,
+      "lng": 127.00131
+    },
+    {
+      "rank": 1,
+      "name": "천하명당",
+      "address": "강원 강릉시 연주로 312 1층",
+      "method": "auto",
+      "lat": 37.88018,
+      "lng": 128.82661
+    },
+    {
+      "rank": 1,
+      "name": "천하명당복권방",
+      "address": "충남 홍성군 조양로 180",
+      "method": "auto",
+      "lat": 36.60073,
+      "lng": 126.66948
+    },
+    {
+      "rank": 1,
+      "name": "왕대박로또",
+      "address": "전북 전주시 덕진구 만성북로 19 조은 프라자 106호",
+      "method": "auto",
+      "lat": 35.849773,
+      "lng": 127.07735
+    },
+    {
+      "rank": 1,
+      "name": "현대장미슈퍼",
+      "address": "전북 익산시 동서로61길 41 어양동 현대A 상가동 108호",
+      "method": "auto",
+      "lat": 35.95536,
+      "lng": 126.98089
+    },
+    {
+      "rank": 1,
+      "name": "복권나라",
+      "address": "경북 포항시 북구 장량로140번길 9",
+      "method": "auto",
+      "lat": 36.08079,
+      "lng": 129.39603
+    }
+  ]
+}
